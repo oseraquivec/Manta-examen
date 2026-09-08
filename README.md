@@ -1,22 +1,32 @@
-# Agencia de Turismo - Descubre Manta
+# Descubre Manta | Guía Turística Oficial
 
-**Nombre del estudiante:** Odalys Seraquive
-**Destino turístico asignado:** Manta - Manabí
+Sitio web profesional y responsive desarrollado como proyecto de excelencia turística para la promoción del cantón Manta, provincia de Manabí, Ecuador.
 
-**Descripción del proyecto:** 
-Portal web desarrollado para la agencia de turismo ficticia "Descubre Manta". El sitio está enfocado en promocionar las playas, la gastronomía local, el turismo urbano, la oferta hotelera y las actividades marítimas del cantón Manta. Cuenta con 5 páginas navegables que incluyen atractivos turísticos, paquetes de servicios, información institucional y un formulario de reservas.
+## 📌 Información del Proyecto
+* **Autoría / Desarrollo:** Odalys Rashel Seraquive Curay
+* **Destino Turístico:** Manta, Manabí (Playas, Gastronomía, Turismo Urbano y Aventura)
+* **Repositorio GitHub:** [https://github.com/oseraquivec/Manta-examen](https://github.com/oseraquivec/Manta-examen)
+* **Sitio Web en Vivo (GitHub Pages):** [https://oseraquivec.github.io/Manta-examen/](https://oseraquivec.github.io/Manta-examen/)
 
-**Tecnologías utilizadas:** 
-* HTML5 (Estructura semántica y validación de formularios)
-* CSS3 (Flexbox, CSS Grid, Box Model, Media Queries para diseño responsive)
-* Git y GitHub
-* GitHub Pages
+---
 
-**Captura del sitio:**
-![Captura de la página de inicio](./images/hero.jpg) 
-*(Nota: Aquí se muestra temporalmente la imagen del hero. Una vez tomes la captura real de tu página index.html, reemplaza hero.jpg con el nombre de tu captura).*
+## 🛠️ Stack Tecnológico
+* **HTML5:** Marcado semántico avanzado (`<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>`).
+* **CSS3:** Diseño moderno implementando **Flexbox**, **CSS Grid**, variables personalizadas, paleta de colores corporativa y diseño adaptativo (*Responsive Design*) mediante media queries.
+* **Font Awesome:** Iconografía vectorial optimizada para la experiencia de usuario.
+* **Control de Versiones:** Git y GitHub (Historial completo superior a 5 commits reglamentarios).
+* **Despliegue:** Hospedaje web continuo a través de GitHub Pages.
 
-**URL del sitio publicado:**
-[https://TU-USUARIO.github.io/agencia-turismo/](https://TU-USUARIO.github.io/agencia-turismo/)
-*(Nota: Recuerda cambiar "TU-USUARIO" por tu usuario real de GitHub una vez lo publiques).*
-Recordar
+---
+
+## 📄 Estructura del Sitio Web
+1. **`index.html` (Inicio):** Presentación principal con sección hero, estadísticas turísticas destacadas, tarjetas de experiencias y créditos del proyecto.
+2. **`destinos.html` (Atractivos):** Recorrido detallado por los 6 principales atractivos turísticos de Manta (Tarqui, Murciélago, San Lorenzo, Malecón Escénico, etc.).
+3. **`servicios.html` (Paquetes):** Oferta estructurada de 4 paquetes turísticos especializados (Aventura, Lujo, Gastronomía y Kitesurf).
+4. **`nosotros.html` (Nosotros):** Misión, visión, valores y compromiso de la agencia con el desarrollo turístico sostenible de la región.
+5. **`contacto.html` (Contacto):** Formulario de reservas funcional, canales de atención directa y mapa de ubicación.
+
+---
+
+## 🚀 Historial de Desarrollo
+El proyecto cuenta con un registro exhaustivo de commits en el repositorio oficial que avalan la evolución técnica del código, desde la estructuración base hasta la maquetación responsiva, integración de recursos gráficos y optimización final para producción.
